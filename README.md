@@ -27,7 +27,6 @@ An interactive weather application built with **React**, **Leaflet.js**, and the
 
 ```bash
 git clone https://github.com/ardr000005/Weather-Info-Map.git
-cd Weather-Info-Map
 ```
 
 ### 2. Install dependencies
